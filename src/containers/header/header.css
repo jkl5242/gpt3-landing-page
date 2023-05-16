@@ -1,4 +1,4 @@
-.gpt__header {
+.gpt3__header {
   display: flex;
 }
 
@@ -116,7 +116,7 @@
 }
 
 @media screen and (max-width: 1050px) {
-  .gpt__header {
+  .gpt3__header {
     flex-direction: column;
   }
 
@@ -126,12 +126,12 @@
 }
 
 @media screen and (max-width: 650px) {
-  .gpt__header h1 {
+  .gpt3__header h1 {
     font-size: 48px;
     line-height: 60px;
   }
 
-  .gpt__header p {
+  .gpt3__header p {
     font-size: 16px;
     line-height: 24px;
   }
@@ -151,12 +151,12 @@
 }
 
 @media screen and (max-width: 490px) {
-  .gpt__header h1 {
+  .gpt3__header h1 {
     font-size: 36px;
     line-height: 48px;
   }
 
-  .gpt__header p {
+  .gpt3__header p {
     font-size: 14px;
     line-height: 24px;
   }
